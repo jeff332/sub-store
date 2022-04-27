@@ -1,2 +1,0 @@
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLwn4e68J+HuCIsCiAgImFkZCI6ICJ3d3cuamVmZmhvbWUueHl6IiwKICAicG9ydCI6IDMwMTEyLAogICJpZCI6ICI1NmE2OGNmMS01NzNmLTQyMzYtZjRhMS05ZDQyMzU4YjM1ZWUiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJ0bHMiCn0=
-vless://a30eafda-842d-4d7c-9ba9-11e8cfb3db85@www.jeffhome.xyz:39403?type=tcp&security=xtls&flow=xtls-rprx-direct#%F0%9F%87%BA%F0%9F%87%B8
